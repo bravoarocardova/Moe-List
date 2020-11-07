@@ -6,6 +6,7 @@ Aplikasi ini dibagun dengan native android untuk menampilkan list movie statis
 
 ![screenshoot](/screenshot/Screenshot_1.png)
 
-![screenshoot](/screenshot/Screenshot_1.png)
+![screenshoot](/screenshot/Screenshot_2.png)
 
-![screenshoot](/screenshot/Screenshot_1.png)
+## Tampilan Detail Informasi
+![screenshoot](/screenshot/Screenshot_3.png)
